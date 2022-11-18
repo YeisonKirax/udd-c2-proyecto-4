@@ -1,5 +1,11 @@
+import Contacto from './Contacto/Contacto'
 import "./nosotros.css"
 
 export default function Nosotros() {
-  return (<h1> Nosotros section</h1>)
+  return (
+    <div>
+      <h1> Nosotros section</h1>
+      <Contacto />
+    </div>
+  )
 }
