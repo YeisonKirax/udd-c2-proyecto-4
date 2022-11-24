@@ -3,6 +3,7 @@ import {
 } from "react-router-dom";
 
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 import Menu from './components/Menu/Menu';
 import Navbar from './components/Navbar/Navbar';
